@@ -28,7 +28,6 @@ https://manikgupta-2004.github.io/netflix-homepage/
 
 # 📸 Project Preview
 
-> Replace the image below with your project screenshot.
 
 <p align="center">
 
