@@ -20,7 +20,7 @@ responsive layouts, and clean UI design.
 
 ### 🌐 Live Demo
 
-https://manikgupta-2004.github.io/netflix-clone/
+https://manikgupta-2004.github.io/netflix-homepage/
 
 </div>
 
